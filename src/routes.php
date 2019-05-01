@@ -8,12 +8,12 @@ return function($api){
 	$api->addTokenGenerationPath();
 
 	//get all cohorts and its replits
-	$api->get('/path', function (Request $request, Response $response, array $args) use ($api) {
+	$api->get('/students', function (Request $request, Response $response, array $args) use ($api) {
 
         // Throw exception with 400 code if there is a validation error
         // throw new Exception('Image could not be generated', 400);
 
-        return $response->withJson('Hello World');
+        return $response->withJson([ "data" => "Hello World" ]);
 
 	});
 
