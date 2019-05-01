@@ -1,0 +1,13 @@
+{
+    "name": "breathecode/assets-api",
+    "description": "Boilerplate for apis on breathecode assets",
+    "authors": [
+        {
+            "name": "Alejandro Sanchez",
+            "email": "aalejo@gmail.com"
+        }
+    ],
+    "require": {
+        "alesanchezr/slim-api-wrapper": "^0.0.3"
+    }
+}
