@@ -1,4 +1,4 @@
-# Instructions for creating BreatheCode's Assets API's
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Instructions for creating BreatheCode's Assets API's
 
 This is the ideal boilerplate to create API's for BreatheCode.
 
